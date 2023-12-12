@@ -1,4 +1,4 @@
-# WordCloudPage React Component
+# WordCloud React Component
 
 ## Overview
 The `WordCloudPage` component is a React-based application designed for dynamic word cloud generation from user-input text. It emphasizes significant words by filtering out common words and sizes the remaining words based on their frequency.
